@@ -5,3 +5,5 @@ hello
 a.out
 .vsxode/
 build/
+*.tmp
+*.log
