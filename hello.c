@@ -6,6 +6,6 @@ printf("version3\n");
 printf("version4\n");
 printf("version5\n");
 printf("practicing push and pull\n");
-printf("open vscode");
+printf("Open vscode");
 return 0;
 }
