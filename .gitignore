@@ -1,5 +1,7 @@
+hello
 *.o
 *.out
 *.exe
 a.out
+.vsxode/
 build/
